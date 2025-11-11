@@ -5,15 +5,15 @@ A collection of Java programs demonstrating key **Object-Oriented Programming (O
 📘 Topics Covered
 
 🔹 Four Pillars of OOP
-- **Abstraction** — Hiding implementation details and showing only necessary functionality.  
-- **Encapsulation** — Binding data and methods together.  
-- **Inheritance** — Acquiring properties of one class into another.  
-- **Polymorphism** — Performing a single action in different ways.
+- 🔗 **Abstraction** — Hiding implementation details and showing only necessary functionality.  
+- 🔗 **Encapsulation** — Binding data and methods together.  
+- 🔗 **Inheritance** — Acquiring properties of one class into another.  
+- 🔗 **Polymorphism** — Performing a single action in different ways.
 
 🔹 Other OOP Concepts
-- **Constructors**  
-- **Interfaces**  
-- **Call by Value & Call by Reference**  
+- 🔗 **Constructors**  
+- 🔗 **Interfaces**  
+- 🔗 **Call by Value & Call by Reference**  
 
 
 ---
