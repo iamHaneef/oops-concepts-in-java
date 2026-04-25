@@ -1,26 +1,44 @@
-# OOP Concepts in Java
+# Java OOP Concepts
 
-A collection of Java programs demonstrating key Object-Oriented Programming (OOP) concepts and features.
+## 📌 Overview
+
+A collection of Java programs demonstrating core Object-Oriented Programming (OOP) concepts.  
+This repository focuses on understanding fundamental principles through practical examples.
 
 ---
 
-## Topics Covered
+## ⚡ Topics Covered
 
 ### Four Pillars of OOP
+- Abstraction  
+- Encapsulation  
+- Inheritance  
+- Polymorphism  
 
-- Abstraction — Hiding implementation details and exposing only necessary functionality  
-- Encapsulation — Binding data and methods together  
-- Inheritance — Acquiring properties from one class to another  
-- Polymorphism — Performing a single action in different ways  
-
-### Other Concepts
-
+### Additional Concepts
 - Constructors  
 - Interfaces  
 - Call by Value vs Reference  
 
 ---
 
-## Purpose
+## 🛠️ Tech Stack
 
-This repository is intended for practice and revision of Java OOP concepts, especially for interviews and academic learning.
+- Java  
+
+---
+
+## 📂 Project Structure
+
+```bash
+java-oop-concepts/
+│
+├── (multiple OOP example programs)
+└── README.md
+```
+
+---
+
+## 🚀 How to Run
+
+> Compile and run Java programs using `javac` and `java`.
